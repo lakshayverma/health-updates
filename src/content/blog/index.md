@@ -1,4 +1,4 @@
 ---
 title: "Latest news"
-description: "this is meta description"
+description: "Any new information about the situation will be posted here."
 ---
