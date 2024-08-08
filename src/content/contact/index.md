@@ -7,6 +7,5 @@ info:
   contacts: 
     - "phone: +91 9779333346"
     - "Mail: [Lakshay Verma](mailto:lakshayverma@outlook.in)"
-    
+    - "UPI: [Contribute](upi://pay?pa=lake.verma25@okhdfcbank&cu=INR)"
 ---
-
