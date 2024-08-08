@@ -25,15 +25,21 @@ const { title, image } =
             )
           }
           <h1 set:html={markdownify(title)} class="h2 text-left my-6" />
-    
+
           <div class="content mb-16 text-left">
             <Content />
             <!-- <Markdown content={post.body} components={shortcodes} /> -->
           </div>
-          
+
+          <div class="content mb-16 text-left">
+            Need all the support and prayers 🙏 from everyone. I am hopeful that everything will go well and I will be able to recover soon. Thank you for all the love and support.
+            To show support you can contribute and share this with your friends and family. Every little bit helps. <strong>Thank you.</strong>
+          </div>
+
+          <a className={`btn mb-4 me-4 btn-outline-primary dark:hover:text-black hover:no-underline`} href="/contact">Contribute ❤️</a>
+
         </article>
       </div>
     </div>
   </div>
 </section>
-

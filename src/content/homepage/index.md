@@ -33,53 +33,40 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "What is Bone Marrow Transplant?"
+    content: "Bone marrow transplant or Stem Cell Transplant in this case is where a high dose chemotherapy will be performed to neutralize all the cells in body so that newer and healthier cells can be formed instead of diseased ones."
     images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
+      - "/images/bmt.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Know more
+      link: /blog/bone-marrow-transplant
+      
+  - title: "Where are you getting treatment from?"
+    content: "The treatment is being done at IVY Hospital Mohali for Salvage Therapy and once disease is under control, Bone Marrow Transplant will be done at Rajiv Gandhi Cancer Institute, New Delhi."
+    images:
+      - "/images/chemo-cycles.png"
+    button:
+      enable: true
+      label: Chemotherapy Details
+      link: /blog/chemotherapy
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+
+  - title: "What are the costs involved?"
+    content: "The estimated cost of the treatment is about ₹25 Lakhs. Because of the relapse, the treatment is more aggressive and hence the cost is going to be higher."
     images: 
-      - "/images/service-slide-1.png"
+      - "/images/costs.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Costs Involved
+      link: /blog/costs-involved
   
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
 
 # workflow
 workflow: 
   title: "Situation Overview"
   image: "/images/banner.png"
-  description: ""
+  description: "Due to the nature and fast acting of the disease, the treatment is aggressive and expensive."
 
 # call_to_action
 call_to_action:

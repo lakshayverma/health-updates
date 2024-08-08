@@ -19,49 +19,20 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Contribute",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
-          "text": "Pricing",
+          "text": "Impact Guru",
           "url": "/pricing"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Queries",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
-        },
-        {
-          "text": "Privacy Policy",
-          "url": "/privacy-policy"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
         }
       ]
     }
